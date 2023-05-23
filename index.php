@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 use app\controller\UserController;
 require(__DIR__."/app/controllers/userController.php");
@@ -19,4 +20,7 @@ if ($request === BASE_PATH) {
 
 
 
+=======
+echo "index";
+>>>>>>> 41174f321255f00b8777a4e800e1a726e7a03720
 ?>
